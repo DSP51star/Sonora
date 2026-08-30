@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "title": "Título de la canción",
+      "artist": "Nombre del artista",
+      "album": "Nombre del álbum",
+      "genre": "Pop",
+      "year": 2026,
+      "duration": 213,
+      "audio": "https://cdn.ejemplo.com/musica/cancion.mp3",
+      "cover": "https://cdn.ejemplo.com/musica/portada.jpg",
+      "subtitles": "https://cdn.ejemplo.com/musica/cancion.lrc"
+    }
+  ]
+}
